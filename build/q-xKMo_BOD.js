@@ -1,0 +1,1 @@
+import{x as t}from"./q-CpBdxxLB.js";const r=()=>t("div",null,{style:"width: 200px; height: 200px"},t("img",null,{class:"rounded-circle",src:"https://png.pngtree.com/png-vector/20190621/ourmid/pngtree-award-badge-icon-design-template-vector-illustration-isolated-png-image_1502464.jpg",alt:"Avatar",width:"200",height:"200"},null,3,null),3,"g8_0");export{r as s_e5kYr5aq334};

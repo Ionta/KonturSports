@@ -1,0 +1,1 @@
+import{x as s}from"./q-CpBdxxLB.js";const l=()=>s("div",null,{class:"progress",role:"progressbar","aria-label":"Success striped example",style:{padding:0}},s("div",null,{class:"progress-bar progress-bar-striped bg-success",style:"width: 80%"},null,3,null),3,"l0_0");export{l as s_7aZIka2CwuI};

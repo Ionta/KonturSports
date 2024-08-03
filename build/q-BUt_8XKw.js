@@ -1,0 +1,1 @@
+import{x as i,c as n}from"./q-CpBdxxLB.js";const c=t=>i("div",null,{style:"width: 300px; height: 300px"},i("img",null,{class:"rounded-circle",src:n(l=>l.src,[t]),alt:n(l=>l.alt,[t]),width:"300",height:"300"},null,3,null),3,"Ry_0");export{c as s_wcnpSiAUjPY};

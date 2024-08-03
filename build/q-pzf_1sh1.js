@@ -1,0 +1,1 @@
+import{x as s,c as a}from"./q-CpBdxxLB.js";const o=n=>s("div",null,{class:a(l=>`spinner-${l.growing?"grow":"border"} text-${l.colorVariant}`,[n]),role:"status"},s("span",null,{class:"visually-hidden"},a(l=>l.text||"Loading...",[n]),3,null),3,"Sm_0");export{o as s_Dd7tf0x87e0};
